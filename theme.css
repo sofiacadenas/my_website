@@ -2,10 +2,11 @@
 h1 {
 font-size: 100px;
 color: #008080;
-  font-family: 'Baloo', cursive;
+  font-family: 'Indie Flower', cursive;
 }
 
 p {
+   font-family: 'Baloo', cursive;
   color:#800080;
   font size:55px
 }
