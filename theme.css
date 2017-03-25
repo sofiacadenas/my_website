@@ -20,4 +20,5 @@ display: inline-block;
 
 .button (
 padding:15px 30px;
-color:#DB7093
+background-color:#DB7093;
+)
