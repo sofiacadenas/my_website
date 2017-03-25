@@ -14,3 +14,10 @@ p {
   font size:55px
 }
 
+nav li{
+display: inline-block;
+}
+
+.button (
+padding:15px 30px;
+color:#DB7093
